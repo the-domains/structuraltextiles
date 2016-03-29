@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "•Lorna\nSyson, the designer behind Structural Textiles "
-datePublished: '2016-03-29T13:40:51.133Z'
-dateModified: '2016-03-29T13:40:06.567Z'
+description: "Lorna\nSyson, the designer behind Structural Textiles "
+datePublished: '2016-03-29T13:41:44.193Z'
+dateModified: '2016-03-29T13:41:24.923Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-29-lorna-syson-the-designer-behind-structural-textiles.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-lorna-syson-the-designer-behind-structural-textiles.md
-published: true
 url: lorna-syson-the-designer-behind-structural-textiles/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2001f15-0ed7-4ffb-824c-2278920e1a15.jpg)
+
 Lorna
 Syson, the designer behind Structural Textiles 
 
