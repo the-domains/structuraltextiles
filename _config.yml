@@ -1,7 +1,7 @@
 name: structuraltextiles
 favicon: null
-layout_spectrum: 0.5789186200127006
-typography_spectrum: 0.09614703548140824
+layout_spectrum: 0
+typography_spectrum: 0.86504
 title: structural textiles by Lorna Syson
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6649855170398951
+    - '#401d39'
+    - '#ffffff'
+    - '#a08e9c'
+    - '#cfc6cd'
+    - '#70566b'
+  brandStrength: 0.6875
   lightness: 0.5802778725046664
   saturation: 0.5680482161697
   rhythmicContrast: 0.901738244574517
